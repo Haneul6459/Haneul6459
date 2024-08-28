@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Haneul6459
-- 👀 I’m interested in BTS, k-dramas, flower language
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+# About me
+- 💕 I’m interested in BTS, k-dramas, flower language
+- 🌱 I'm currently learning Java
 - 📫 How to reach me ig @han_6459
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ✨ Pronouns: she/her
 
 <!---
 Haneul6459/Haneul6459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
